@@ -2,3 +2,11 @@
 /weights/
 /model_data/
 /data/
+
+# IDE
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.pyc
